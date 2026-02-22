@@ -24,3 +24,4 @@ This project helped me understand important concepts such as real-time communica
 
 Overall, this task helped me gain practical experience in developing a real-time web application and strengthened my understanding of both frontend and backend development.
 
+<img width="673" height="817" alt="Image" src="https://github.com/user-attachments/assets/080053e1-36b4-434d-8046-2877f80d3753" />
